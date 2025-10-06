@@ -1,0 +1,2 @@
+# ServiceMate-App
+ServiceMate is an Android application developed as a Bachelor Final Year Project (FYP) at Qassim University.  It provides a unified platform for on-demand services including automotive repairs, home maintenance, construction, sports, and shopping.  The app integrates Location-Based Services (LBS), a review system, and a user-friendly interface to streamline service requests and management.
